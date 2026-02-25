@@ -1,12 +1,23 @@
-# Python Automatisierung – erste Schritte
+# KI Text Assistant
 
-Im Rahmen meiner Weiterbildung zur KI-Consultant sammle ich hier meine ersten Erfahrungen mit Python.
+Dieses Projekt ist ein einfaches KI-Tool, das Texte verarbeitet und verbessert.
 
-## Inhalte
-- einfache Skripte erstellt
-- erste Automatisierungen ausprobiert
-- Grundlagen der Programmierung angewendet
+## Funktionen
+- Text eingeben
+- Text verbessern oder zusammenfassen
+- Kommunikation mit einer KI über API
 
-## Beispiel (ein einfaches Skript)
-```python
-print("Hallo Welt – mein erstes Python-Skript")
+## Technologien
+- Python
+- OpenAI API
+- Jupyter Notebook
+
+## Beispiel
+Eingabe:
+"KI ist die Zukunft"
+
+Ausgabe:
+"Künstliche Intelligenz ist eine Schlüsseltechnologie der Zukunft."
+
+## Ziel des Projekts
+Lernen, wie man KI in eigene Anwendungen integriert.
