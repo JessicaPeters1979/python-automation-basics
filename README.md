@@ -1,15 +1,14 @@
-#  AI Smart Assistant
+#  KI-Textassistent (Python Projekt)
 
-Ein interaktives KI-Tool, das verschiedene Aufgaben automatisiert:
+Ein interaktives KI-Tool, das verschiedene Textaufgaben automatisiert.
 
 ##  Funktionen
 
--  Fragen beantworten (Deutsch & Englisch)
--  E-Mails generieren (verschiedene Tonalitäten)
--  Texte verbessern
--  Texte zusammenfassen
-
----
+- Fragen beantworten (Deutsch & Englisch)
+- E-Mails generieren
+- Texte verbessern
+- Texte zusammenfassen
+- Produktbeschreibungen erstellen
 
 ##  Technologien
 
@@ -17,32 +16,25 @@ Ein interaktives KI-Tool, das verschiedene Aufgaben automatisiert:
 - OpenAI API
 - Jupyter Notebook
 
----
-
-##  Beispiel
-
-**Eingabe:**
-"Schreibe eine freundliche E-Mail an einen Kunden wegen Terminverschiebung"
-
-**Ausgabe:**
-Automatisch generierte professionelle E-Mail
-
----
-
 ##  Nutzung
 
-1. Notebook starten
-2. Programm ausführen
-3. Option wählen (Frage / Email / Text / Summary)
-4. Eingabe machen
+1. Programm starten
+2. Auswahl im Menü treffen
+3. Text eingeben
+4. Ergebnis erhalten
 
----
+##  Sicherheit
+
+Der API-Schlüssel wird **nicht im Code gespeichert**, sondern über Umgebungsvariablen geladen.
 
 ##  Ziel des Projekts
 
-Praxisprojekt zur Anwendung von KI in Automatisierung und Textverarbeitung.
+Dieses Projekt wurde erstellt, um praktische Erfahrung mit:
+- KI-Integration
+- API-Nutzung
+- Python-Programmierung
 
----
+zu sammeln.
 
 ##  Autor
 
